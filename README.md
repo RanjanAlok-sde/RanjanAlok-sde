@@ -1,33 +1,55 @@
-# Hi there, I'm Alok Kumar! 👋
+# 🚀 Hi, I'm Alok Kumar
 
-### 👨‍💻 Full Stack Developer | Python & AI Enthusiast
-
-I'm a passionate Software Developer dedicated to building scalable web applications and exploring the frontiers of AI integration. Currently, I'm focused on developing sophisticated administrative tools and AI-driven teaching assistants.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white)
+### **Backend & AI Engineer**
+*Building scalable SaaS architectures and AI-driven automation.*
 
 ---
 
-### 🚀 What I'm working on
-- 🤖 **Teaching Assistant AI:** Building an end-to-end RAG-based AI support agent.
-- 💬 **Admin Chat Infrastructure:** Implementing secure, multi-tenant chat features in Django.
-- ⚡ **Scalable Systems:** Optimizing Celery task queues and Redis configurations.
+## ⚡ Technical Profile
+I am a Backend Developer focused on building high-performance web applications. My expertise lies in **Python/Django ecosystems**, **Asynchronous Task Orchestration**, and implementing **Generative AI (RAG)** patterns to solve real-world automation challenges.
 
 ---
 
-### 📊 GitHub Stats
-![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanjanAlok-sde&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanjanAlok-sde&layout=compact&theme=radical)
+## 🛠️ Tech Stack & Expertise
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| **AI Integration** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) **Retrieval-Augmented Generation (RAG)** |
+| **Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![OCI](https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Distributed Tasks**| ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) |
+
+---
+
+## 🏗️ Technical Highlights (Professional & Personal)
+
+### 🤖 **AI & Automation**
+- **RAG Implementation:** Developing systems that leverage LLMs for context-aware support and document analysis.
+- **Media Processing:** Built optimized pipelines using **FFmpeg** and **Celery** for efficient audio/video chunking and transcript generation.
+- 
+### 🌐 **Scalable Backend Systems**
+- **Multi-tenant Architecture:** Experienced in building secure, isolated SaaS environments with complex permission sets.
+- **Cloud Infrastructure:** Handled infrastructure scaling and migration between **AWS** and **Oracle Cloud (OCI)**.
+- **Task Orchestration:** Expert at managing long-running background processes and handling distributed system failures (Redis/Celery).
+- 
+---
+
+## 📈 Coding Activity
+
+- Solved 500+ problems on LeetCode
+- Strong interest in Data Structures & Algorithms
+- Focused on writing optimized backend logic and scalable APIs
+
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RanjanAlok-sde&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🎯 Currently Exploring
+
+- Advanced RAG pipelines and LLM integrations
+- Backend scalability and system design concepts
+- Distributed task processing and optimization
 
 ---
 
